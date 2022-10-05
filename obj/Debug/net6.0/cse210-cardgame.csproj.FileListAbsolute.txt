@@ -1,0 +1,15 @@
+C:\Users\logan\Documents\GitHub\cse210-cardgame\bin\Debug\net6.0\cse210-cardgame.exe
+C:\Users\logan\Documents\GitHub\cse210-cardgame\bin\Debug\net6.0\cse210-cardgame.deps.json
+C:\Users\logan\Documents\GitHub\cse210-cardgame\bin\Debug\net6.0\cse210-cardgame.runtimeconfig.json
+C:\Users\logan\Documents\GitHub\cse210-cardgame\bin\Debug\net6.0\cse210-cardgame.dll
+C:\Users\logan\Documents\GitHub\cse210-cardgame\bin\Debug\net6.0\cse210-cardgame.pdb
+C:\Users\logan\Documents\GitHub\cse210-cardgame\obj\Debug\net6.0\cse210-cardgame.csproj.AssemblyReference.cache
+C:\Users\logan\Documents\GitHub\cse210-cardgame\obj\Debug\net6.0\cse210-cardgame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logan\Documents\GitHub\cse210-cardgame\obj\Debug\net6.0\cse210-cardgame.AssemblyInfoInputs.cache
+C:\Users\logan\Documents\GitHub\cse210-cardgame\obj\Debug\net6.0\cse210-cardgame.AssemblyInfo.cs
+C:\Users\logan\Documents\GitHub\cse210-cardgame\obj\Debug\net6.0\cse210-cardgame.csproj.CoreCompileInputs.cache
+C:\Users\logan\Documents\GitHub\cse210-cardgame\obj\Debug\net6.0\cse210-cardgame.dll
+C:\Users\logan\Documents\GitHub\cse210-cardgame\obj\Debug\net6.0\refint\cse210-cardgame.dll
+C:\Users\logan\Documents\GitHub\cse210-cardgame\obj\Debug\net6.0\cse210-cardgame.pdb
+C:\Users\logan\Documents\GitHub\cse210-cardgame\obj\Debug\net6.0\cse210-cardgame.genruntimeconfig.cache
+C:\Users\logan\Documents\GitHub\cse210-cardgame\obj\Debug\net6.0\ref\cse210-cardgame.dll
