@@ -67,7 +67,7 @@ namespace MyApplication
 
   }
 
-  public void GameCheck(){
+  public void GameCheck(){ 
     Console.WriteLine($"Your score is: {totalScore}");
     if (totalScore == 0){
       isPlaying = false;
