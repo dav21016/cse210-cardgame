@@ -44,7 +44,7 @@ namespace MyApplication
         nextCard = card.cardValue;
       }
       Console.Write("Higher or Lower: [h/l]  ");
-      string cardGuess = Console.ReadLine();
+      string cardGuess = Console.ReadLine()??"";
       Console.WriteLine($"The next card was:{nextCard}");
       if (cardGuess.Equals("h") && currentCard < nextCard){
         totalScore += winningbonus;
@@ -78,7 +78,7 @@ namespace MyApplication
 
     currentCard = nextCard;
     Console.Write("Keep Playing? [y/n] ");
-    string rollDice = Console.ReadLine();
+    string rollDice = Console.ReadLine()??"";
     isPlaying = (rollDice == "y");
   }
   }
